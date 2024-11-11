@@ -14,8 +14,11 @@ namespace EXERCITANDO
             Exibircabecalho variavelCabecalho = new Exibircabecalho();
             variavelCabecalho.Cabecalho();
 
+            //chamando cabeçalho
+
             MenuExercicio variavelMenu = new MenuExercicio();
             variavelMenu.Menu();
+            //chamando menu
         }
     }
 }
