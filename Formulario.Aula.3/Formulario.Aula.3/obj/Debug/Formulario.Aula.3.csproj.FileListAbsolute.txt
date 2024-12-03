@@ -1,0 +1,10 @@
+C:\Users\marcia.gmcondarco\source\repos\Formulario.Aula.3\Formulario.Aula.3\bin\Debug\Formulario.Aula.3.exe.config
+C:\Users\marcia.gmcondarco\source\repos\Formulario.Aula.3\Formulario.Aula.3\bin\Debug\Formulario.Aula.3.exe
+C:\Users\marcia.gmcondarco\source\repos\Formulario.Aula.3\Formulario.Aula.3\bin\Debug\Formulario.Aula.3.pdb
+C:\Users\marcia.gmcondarco\source\repos\Formulario.Aula.3\Formulario.Aula.3\obj\Debug\Formulario.Aula.3.csproj.AssemblyReference.cache
+C:\Users\marcia.gmcondarco\source\repos\Formulario.Aula.3\Formulario.Aula.3\obj\Debug\Formulario.Aula._3.Form1.resources
+C:\Users\marcia.gmcondarco\source\repos\Formulario.Aula.3\Formulario.Aula.3\obj\Debug\Formulario.Aula._3.Properties.Resources.resources
+C:\Users\marcia.gmcondarco\source\repos\Formulario.Aula.3\Formulario.Aula.3\obj\Debug\Formulario.Aula.3.csproj.GenerateResource.cache
+C:\Users\marcia.gmcondarco\source\repos\Formulario.Aula.3\Formulario.Aula.3\obj\Debug\Formulario.Aula.3.csproj.CoreCompileInputs.cache
+C:\Users\marcia.gmcondarco\source\repos\Formulario.Aula.3\Formulario.Aula.3\obj\Debug\Formulario.Aula.3.exe
+C:\Users\marcia.gmcondarco\source\repos\Formulario.Aula.3\Formulario.Aula.3\obj\Debug\Formulario.Aula.3.pdb
