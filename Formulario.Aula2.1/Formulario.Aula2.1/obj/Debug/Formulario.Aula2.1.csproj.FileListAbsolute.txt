@@ -1,0 +1,10 @@
+C:\Users\marcia.gmcondarco\source\repos\Formulario.Aula2.1\Formulario.Aula2.1\bin\Debug\Formulario.Aula2.1.exe.config
+C:\Users\marcia.gmcondarco\source\repos\Formulario.Aula2.1\Formulario.Aula2.1\bin\Debug\Formulario.Aula2.1.exe
+C:\Users\marcia.gmcondarco\source\repos\Formulario.Aula2.1\Formulario.Aula2.1\bin\Debug\Formulario.Aula2.1.pdb
+C:\Users\marcia.gmcondarco\source\repos\Formulario.Aula2.1\Formulario.Aula2.1\obj\Debug\Formulario.Aula2.1.csproj.AssemblyReference.cache
+C:\Users\marcia.gmcondarco\source\repos\Formulario.Aula2.1\Formulario.Aula2.1\obj\Debug\Formulario.Aula2._1.Form1.resources
+C:\Users\marcia.gmcondarco\source\repos\Formulario.Aula2.1\Formulario.Aula2.1\obj\Debug\Formulario.Aula2._1.Properties.Resources.resources
+C:\Users\marcia.gmcondarco\source\repos\Formulario.Aula2.1\Formulario.Aula2.1\obj\Debug\Formulario.Aula2.1.csproj.GenerateResource.cache
+C:\Users\marcia.gmcondarco\source\repos\Formulario.Aula2.1\Formulario.Aula2.1\obj\Debug\Formulario.Aula2.1.csproj.CoreCompileInputs.cache
+C:\Users\marcia.gmcondarco\source\repos\Formulario.Aula2.1\Formulario.Aula2.1\obj\Debug\Formulario.Aula2.1.exe
+C:\Users\marcia.gmcondarco\source\repos\Formulario.Aula2.1\Formulario.Aula2.1\obj\Debug\Formulario.Aula2.1.pdb
